@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4l65l0.1dollaronlinecasino.com/sitemap.xml
